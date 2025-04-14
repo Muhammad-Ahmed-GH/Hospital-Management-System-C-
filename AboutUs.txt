@@ -1,0 +1,12 @@
+* This is a management system for CARE Hospital designed with C programming language.
+* It is designed to help administrators to apply basic functions on their data.
+* It enables them to insert new records, remove existing records, and show data.
+* It is designed by professional experts in the field of development and technology.
+
+* The project is made by:
+    - Mohamed Ibrahim   231002063
+    - Ibrahim Ahmed     231001317
+    - Tasnim Maged      231000173
+    - Mohamed Shalaby   231000546
+    - Ahmed Taher       231001502
+
