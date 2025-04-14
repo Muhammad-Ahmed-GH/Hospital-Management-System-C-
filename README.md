@@ -23,17 +23,7 @@ Follow the on-screen instructions to navigate through the system.
 ## Project Structure
 
 - `src/` - Source code files
-- `include/` - Header files
 - `data/` - Data storage files
-- `Makefile` - Build configuration
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## License
-
-This project is open source and available under the MIT License.
 
 ## Acknowledgments
 
