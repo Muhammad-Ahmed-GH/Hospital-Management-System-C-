@@ -6,7 +6,7 @@
 * The project is made by:
     - Mohamed Ibrahim   231002063
     - Ibrahim Ahmed     231001317
-    - Tasnim Maged      231000173
+    - Tasnim Magid      231000173
     - Mohamed Shalaby   231000546
     - Ahmed Taher       231001502
 
